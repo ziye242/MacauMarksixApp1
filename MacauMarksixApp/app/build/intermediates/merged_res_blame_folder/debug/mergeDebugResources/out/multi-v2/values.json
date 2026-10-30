@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.macaucalculator.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\24272\\Desktop\\MacauMarksixApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "292",
+                        "endOffsets": "292"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "285",
+                        "endOffsets": "336"
+                    }
+                }
+            ]
+        }
+    ]
+}

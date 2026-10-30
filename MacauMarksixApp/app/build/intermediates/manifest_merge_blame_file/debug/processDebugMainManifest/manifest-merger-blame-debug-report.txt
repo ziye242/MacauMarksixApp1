@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.macaucalculator"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:2:2-63
+11-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:2:19-61
+12
+13    <application
+13-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:3:2-5:16
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:label="六合彩计算器"
+16-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:3:15-37
+17        android:theme="@style/AppTheme"
+17-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:3:38-69
+18        android:usesCleartextTraffic="false" >
+18-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:3:70-106
+19        <activity
+19-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:4:3-218
+20            android:name="com.example.macaucalculator.MainActivity"
+20-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:4:13-41
+21            android:exported="true" >
+21-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:4:42-65
+22            <intent-filter>
+22-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:4:66-207
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:4:81-132
+23-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:4:89-130
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:4:132-191
+25-->C:\Users\24272\Desktop\MacauMarksixApp\app\src\main\AndroidManifest.xml:4:142-189
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
